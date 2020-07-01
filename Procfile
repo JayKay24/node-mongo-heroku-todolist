@@ -1,1 +1,1 @@
-iweb: node app.js
+web: npm run start
